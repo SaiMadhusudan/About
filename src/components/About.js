@@ -24,7 +24,7 @@ Majoring in Computer Science and Engineering </h1>
             <li className='p-1 text-lg'>Middle School : Johnson Grammar School</li>
             <li className='p-1 text-lg'>High School : Fiitjee</li>
             <li className='p-1 text-lg'>Grade 11 & 12 : Fiitjee</li>
-            <li className='p-1 text-lg'>Presently persuing B.Tech at IIITH</li>
+            <li className='p-1 text-lg'>Presently pursuing B.Tech at IIITH</li>
         </ul>
     </div>
 
