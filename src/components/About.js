@@ -33,7 +33,7 @@ Majoring in Computer Science and Engineering </h1>
         <ul className="list-decimal pl-5 pt-2 font-Montserrat">
             <li className='p-1 text-lg'>UGEE Exam 19 (air) ,Interview and Exam,Conducted by IIITH.This is an admission test into the University</li>
             <li className='p-1 text-lg'>JEE MAINS 5055 (air),Exam , Conducted by NTA.Admission test to major colleges in the country like IIITs,NITs etc</li>
-            <li className='p-1 text-lg'>JEE ADVANCED 3240 (air) ,Exam, India's toughest examination.Admission to test to Indias most privilleged colleges 'IITs'</li>
+            <li className='p-1 text-lg'>JEE ADVANCED 3240 (air) ,Exam, India's toughest examination.Admission test to India's most privilleged colleges 'IITs'</li>
             <li className='p-1 text-lg'>Deans List @ IIIT</li>
         </ul>
     </div>
